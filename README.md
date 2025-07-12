@@ -208,7 +208,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter issues or have questions:
-1. Check the [troubleshooting guide](docs/troubleshooting.md)
+1. Check the [troubleshooting guide](Troubleshooting.md)
 2. Search existing [issues](https://github.com/yourusername/curated_compound_analysis/issues)
 3. Create a new issue with detailed information
 
