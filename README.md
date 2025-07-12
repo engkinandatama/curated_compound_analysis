@@ -78,7 +78,7 @@ The script will automatically download ChromeDriver using `webdriver-manager`.
 
 1. **Prepare Input Data**
    - Create CSV file with compound names in 'Name' column
-   - Example: `data_senyawa.csv`
+   - Example: `compound_data.csv`
 
 2. **Run Curation Notebook**
    ```bash
